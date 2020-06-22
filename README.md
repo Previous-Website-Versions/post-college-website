@@ -1,5 +1,2 @@
-# johns-website
-Personal website to share work with others
-
-You can view the site
-[here](https://jwq1.github.io/johns-website/ "John's Website")
+# post-college-website
+This is the website I created after college to share my work with others. It was sunsetted June, 2020. 
